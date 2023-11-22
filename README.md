@@ -1,2 +1,3 @@
 # development-file
-this is my first repository.
+this is my  Git first repository.
+Author-Aman dubey.
